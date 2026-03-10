@@ -47,6 +47,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/water-bottle/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/shot-glass/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/childhood/
         </loc>
     </url>
